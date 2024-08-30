@@ -2,4 +2,6 @@
 
 lets git good
 
-Hello Everyone
+Hello
+
+this is the second change im making, i am also deleting some text too.
